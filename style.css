@@ -1,0 +1,91 @@
+body {
+	margin: 20px;
+	width: 900px;
+}
+
+article {
+	margin-top: 35px;
+	margin-bottom: 35px;
+}
+
+.logo {
+	text-align: left;
+}
+
+.contact {
+	float: right;
+	display: inline;
+	margin-top: 15px;
+}
+
+.dateTag {
+	text-transform: uppercase;
+	color: #A3A3A3;
+	font-family: sans-serif;
+	font-size: 12px;
+}
+
+.print {
+	float: right;
+}
+
+.title {
+	margin-bottom: 15px;
+}
+
+h1 {
+	font-family: sans-serif;
+	font-size: 24px;
+}
+
+article p {
+	color: #858585;
+	text-indent: 25px;
+	font-size: 16px;
+	line-height: 25px;
+	font-family: 'Droid Serif', serif;
+}
+
+.authorSection {
+	margin-top: 20px;
+	margin-bottom: 25px;
+}
+
+.authorDetails {
+	margin-top: 15px;
+	margin-bottom: 30px;
+}
+
+.authorImage {
+	float: left;
+}
+
+.authorName {
+	font-weight: bold;
+	color: #666565;
+	padding-left: 15px;
+}
+
+.authorBio {
+	color: #666565;
+	padding-left: 15px;
+	font-size: 14px;
+}
+
+.shareRecipe {
+	float: right;
+}
+
+footer {
+	text-align: center;
+	color: #A3A3A3;
+	font-size: 12px;
+}
+
+.checklist {
+
+}
+
+
+
+
